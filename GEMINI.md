@@ -5,10 +5,10 @@ This repository is intended as a boilerplate / bootstrap / proof-of-concept for 
 
 ## Directory Structure
 - TODO: Gemini is expected to fill this part in after a thorough review of whatever is present in this repo.
--- The review should follow the established guidelines.
--- The review is only considered complete once verified with the user.
--- Otherwise, the text guiding the review procedure must be reviewed and modified under the direction of, and to the ultimate satisfaction of, the human user.
--- Ideally these revisions would be communicated to the original author of this document (Brett Whitty <brett@gnomatix.com>)
+- The review should follow the established guidelines.
+- The review is only considered complete once verified with the user.
+- Otherwise, the text guiding the review procedure must be reviewed and modified under the direction of, and to the ultimate satisfaction of, the human user.
+- Ideally these revisions would be communicated to the original author of this document (Brett Whitty <brett@gnomatix.com>)
 
 ## Software Architecture
 - TODO: Follow the instructions under "Directory Structure" to likewise populate this item.
@@ -22,7 +22,7 @@ This repository is intended as a boilerplate / bootstrap / proof-of-concept for 
 > *   **Comments/TODO items**: Existing "commmented out" code may have been retained as a low-effort means of documentation. Code comments with annotations such as 'TODO' may have been used as highlighters/markers for visual elements or legacy notes, NOT necessarily technical debt. Treat with caution.
 
 ## Build Instructions
-- TODO: Document and standarize these as appropriate, in consultation with the expert user, soliciting and deferring to their judgment.
+- TODO: Document and standardize these as appropriate, in consultation with the expert user, soliciting and deferring to their judgment.
 
 ### Production Build
 - TODO: The agent must populate this.
