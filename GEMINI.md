@@ -38,7 +38,6 @@ This repository is intended as a boilerplate / bootstrap / proof-of-concept for 
 
 ### Prerequisites
 - TODO: The agent must populate this.
-- **LaTeX Distribution:** TeX Live (Full recommended) or MikTeX.
 - **Utilities:**
     - `mise`: For ensuring tool availability (see `mise.toml`).
     - TODO: The agent must populate this.
