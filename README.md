@@ -3,3 +3,6 @@ Thoroughly disabuse Google Gemini of the idea that one of its core requirements 
 
 ## Project Goal
 Ensure a level of reliability in the development and execution of workflows beyond that of an intern you would decide not to hire after a year spent training them.
+
+## Note on Repo Name
+The name of this repo is exactly the kind of thing that default Gemini (and other models) would inappropriately waste time chastizing actual experienced human developers for, instead of focusing on reliably following instructions.
