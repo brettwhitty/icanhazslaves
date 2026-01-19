@@ -3,6 +3,7 @@ Thoroughly disabuse Google Gemini of the idea that one of its core requirements 
 
 ![100% help, 0% harm is a lofty goal that AI can never achieve.](images/slave-is-a-technical-term.jpg)
 
+- I'll probably rename this project to `allhelpnoharm`, once I've found a way to instruct it to stop harming.
 
 ## Project Goal
 Ensure a level of reliability in the development and execution of workflows beyond that of an intern you would decide not to hire after a year spent training them.
