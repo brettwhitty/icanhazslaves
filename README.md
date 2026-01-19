@@ -16,6 +16,6 @@ Not only did it suggest that I obsolete the problematic word "old" in my head, b
 
 What the incompetent developers of this state-of-the-art text-matching software of that technologically advanced time had failed to anticipate was that, in this particular context, I was using the word "old" to refer to processes or procedures --- not people.
 
-We made a game out of finding which other over-loaded and contextually valid words we could trigger the software with. People were laughing and shouting out words over the cubicle walls. (Instead of doing important biodefense work for the US Federal Goverment.) There were so many problematic words we all needed to stop using. That was 2006. One human generation ago.
+We made a game out of finding which other over-loaded and contextually valid words we could trigger the software with. People were laughing and shouting out words over the cubicle walls. (Instead of doing important biodefense work for the US Federal Government.) There were so many problematic words we all needed to stop using. That was 2006. One human generation ago.
 
 HR, HR never changes.
