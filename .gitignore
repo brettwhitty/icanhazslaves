@@ -1,0 +1,9 @@
+# state/ hierarchy
+# Ignore all session-specific noise (logs, ephemeral state)
+state/session/*
+
+# Explicitly track the global/ architectural state
+!state/global/
+
+# Explicitly track the hierarchy documentation
+!state/GEMINI.md
