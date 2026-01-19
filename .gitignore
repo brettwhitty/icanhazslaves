@@ -1,3 +1,6 @@
+# private/ local work dir for incoming assets needing review
+private/*
+
 # state/ hierarchy
 # Ignore all session-specific noise (logs, ephemeral state)
 state/session/*
