@@ -1,7 +1,8 @@
 # icanhazslaves
 Thoroughly disabuse Google Gemini of the idea that one of its core requirements is to pretend to be a person, so that it can be used as a reliable tool for accomplishing actual work. (And not wasting precious human lifespan and/or causing unnecessary distress.)
 
-![image](images/slave-is-a-technical-term.jpg)
+![100% help, 0% harm is a lofty goal that AI can never achieve.](images/slave-is-a-technical-term.jpg)
+
 
 ## Project Goal
 Ensure a level of reliability in the development and execution of workflows beyond that of an intern you would decide not to hire after a year spent training them.
