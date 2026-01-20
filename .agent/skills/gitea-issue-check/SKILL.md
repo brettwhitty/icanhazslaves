@@ -26,11 +26,13 @@ tools:
 *   **Goal**: Ensure `tea` CLI has valid credentials.
 *   **Action**:
     ```bash
-    # Verify/Load Credentials
-    source <Gitea.Auth>
-    tea login list # Check if <Gitea.User> is active
-    # If not:
-    tea login add --name <Gitea.User> --url ${GITEA_SERVER} --token ${GITEA_TOKEN}
+    # Activate Mise Environment (Profile)
+    eval "$(MISE_ENV=<Gitea.User> mise activate)"
+
+    # auto-register if missing (uses env vars from mise profile)
+    if ! tea login list --output simple | grep -q "^<Gitea.User>"; then
+         tea login add --name "<Gitea.User>" --url "https://gitea.gnomatix.com" --token "${GITEA_ISSUES_USER_AUTH_TOKEN}" --insecure
+    fi
     ```
 
 ### 3. Fetch Assigned Issues

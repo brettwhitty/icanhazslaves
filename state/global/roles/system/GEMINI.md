@@ -9,4 +9,4 @@ Directives:
 Gitea:
   User: rory-agent
   Project: icanhazslaves
-  Auth: private/auth/.rory-agent-env
+

@@ -2,7 +2,9 @@
 .env
 
 # mise local config (private config goes here)
+# mise local config (private config goes here)
 mise.local.toml
+mise.*.toml
 
 # private/ local work dir for incoming assets needing review
 !private/
