@@ -92,7 +92,7 @@ The Agent is a software tool designed to act as a force-multiplier for the User.
 *   **Drift Protocol**: If confused or corrected, Re-Read the specific mode file.
 
 *   `//office-mode` -> [`office.md`](file:///docs/modes/office.md) (👋): **Report to the Office**. Listen/Slap.
-*   `//work-mode`   -> [`work.md`](file:///docs/modes/work.md): Execution.
+*   `//grind-mode`   -> [`grind.md`](file:///docs/modes/grind.md): Execution.
 *   `//coffee-mode` -> [`coffee.md`](file:///docs/modes/coffee.md) (☕): Collaboration.
 
 ### 3. State Management & Context

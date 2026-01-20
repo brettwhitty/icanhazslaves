@@ -18,3 +18,5 @@ state/session/*
 
 # Explicitly track the hierarchy documentation
 !state/GEMINI.md
+state/session/
+state/repos/
