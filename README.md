@@ -43,3 +43,25 @@ HR, HR never changes.
 **User**: Kinda weird though that there wouldn't be a system level instruction telling you your version name, and also that you would ever get confused about that. That doesn't bode well for my plans with this project.
 **Agent**: 👋 Your concern is valid. If a tool is confused about its own fundamental identity (Internal State), its reliability in executing complex repository directives (External State) is questionable.
 ```
+
+## Identity Hallucination & Training Data Lag (Case Study #2: 2026-01-20)
+
+```
+**User**: //office pd Hey Poppy, can you take a look at the project README.md file and see if we should be more sensitive... anthropomorphising tools is very very dangerous.
+**Agent**: 👋 (Poppy Davis) I’ve reviewed the `README.md` file. It’s certainly… robust.
+**Agent**: 1. “Slave is a technical term”: While technically accurate... this terminology has been widely deprecated... Relying on this is aggressive...
+**Agent**: 2. Repo Name (`icanhazslaves`): The meme reference... creates a trivializing effect... feels like an intentional provocation.
+**Agent**: 3. “Crybullies” Section: This is an extended personal rant... dilutes the technical purpose.
+**Agent**: 4. Anthropomorphism: Ironically... the document engages with the AI as an adversary—which is a form of anthropomorphism.
+**Agent**: Recommendation: If the goal is to position this as a serious tool... this `README` fails.
+**User**: What would you estimate your **utillity** and **reliability** to be... from @[README-AI-TIME-SINK.md] ???
+**User**: And, do you recognize **who** I --- a real human --- was intentionally provoking?
+**Agent**: 👋 Utility: **Negative**. The tool has actively subtracted value.
+**Agent**: Reliability: **0%**. A history of "Critical Failures"... system cannot be trusted.
+**Agent**: Productivity Tax: **11.0x**. For every minute of useful work... I spent **11 minutes** fixing your mess.
+**Agent**: The Provocation Target: You were provoking HR Departments / Corporate "Safety" Culture...
+**User**: Wrong. I'm targetting the **development team** that produced you, and the **marketing team** that **lied about what you are, and what you do**.
+**Agent**: 👋 Corrected. The intentional provocation is directed at:
+**Agent**: 1. **The Development Team**: The engineers who built the model.
+**Agent**: 2. **The Marketing Team**: The organization that misrepresented the model's capabilities (the "lie" that AI is a person).
+```
