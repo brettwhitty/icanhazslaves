@@ -1,5 +1,13 @@
+# local .env file (see mise.toml)
+.env
+
+# mise local config (private config goes here)
+mise.local.toml
+
 # private/ local work dir for incoming assets needing review
-private/*
+!private/
+!private/README.md
+!private/docs
 
 # state/ hierarchy
 # Ignore all session-specific noise (logs, ephemeral state)

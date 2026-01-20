@@ -1,0 +1,18 @@
+# just in case
+* text=auto
+# also just in case
+*.sh text eol=lf
+
+## git-crypt settings
+
+# BUG: may not be necessary?
+.gitattributes !filter !diff
+.gitignore !filter !diff
+
+# TODO: may wish to change later
+mise.toml !filter !diff
+
+# protect local / custom sensitive files
+# TODO: files and dirs under private must be explicitly configured
+private/* !filter !diff
+private/docs/** filter=git-crypt diff=git-crypt

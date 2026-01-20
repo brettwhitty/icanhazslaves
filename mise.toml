@@ -1,0 +1,22 @@
+# this is only included as an example for later use
+redactions = ["SECRET_*", "*_TOKEN", "PASSWORD"]
+
+[settings]
+# for local 
+env_file = '.env'
+idiomatic_version_file_enable_tools = ['node']
+experimental = true
+
+[env]
+# add repo 'utils dir to path
+#_.path = ["./utils"]
+JIRA_REPORTER = { required = true }
+JIRA_ASSIGNEE = { required = true }
+# use 'mise.local.toml' and/or '.env' to set actual values:
+# JIRA_REPORTER = "jira@gnomatix.com"
+# JIRA_ASSIGNEE = "support@gnomatix.com"
+# other future things here
+#ISSUE_TRACKER_URL = { required = true }
+
+[tools]
+node = "lts" # Required for development tools and MCP servers
