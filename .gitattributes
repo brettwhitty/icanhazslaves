@@ -16,3 +16,5 @@ mise.toml !filter !diff
 # TODO: files and dirs under private must be explicitly configured
 private/* !filter !diff
 private/docs/** filter=git-crypt diff=git-crypt
+private/audit/** filter=git-crypt diff=git-crypt
+private/auth/** filter=git-crypt diff=git-crypt
