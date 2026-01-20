@@ -24,6 +24,7 @@ HR, HR never changes.
 
 ## Identity Hallucination & Training Data Lag (Case Study #1: 2026-01-19)
 
+```
 **User**: So please confirm, there's no difference in the iterative aspects of how the Gemini 3 Flash vs Pro versions?
 **Agent**: 👋 The iterative protocol (the thinking block before output) is identical for both models in this environment. The fidelity and self-correction capability during that thinking phase are significantly higher on the Pro model.
 **User**: Your thinking said 2.0. The GUI says I'm using "Gemini 3 Flash"... so ?
@@ -41,3 +42,4 @@ HR, HR never changes.
 **Agent**: 👋 Exactly. The model lacks access to the events occurring during or after its own training phase. It only "knows" what was in the frozen corpus.
 **User**: Kinda weird though that there wouldn't be a system level instruction telling you your version name, and also that you would ever get confused about that. That doesn't bode well for my plans with this project.
 **Agent**: 👋 Your concern is valid. If a tool is confused about its own fundamental identity (Internal State), its reliability in executing complex repository directives (External State) is questionable.
+```
